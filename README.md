@@ -11,17 +11,5 @@
 Hinweis: Grundlegende informationen und Dokumentation zum Spiel gibt es in der Baseline Dokumentation
 (https://github.com/TobiasPapen/projekt-seminar-deep-q-learning)
 
-Das folgende Notebook beinhaltet ein Deep Q-Learning Modell das auf der Baseline der Dreiergruppe basiert.
-
-Abgrenzung zur Baseline:
-
-* RGB Observation-Space (Baseline RAM Basiert)
-
-* Observation-Space Cropped (Zuschneiden des RGB Bildes)
-
-* Convolutional Neuronales Netz
-
-
-
 Quellen:
 * https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
