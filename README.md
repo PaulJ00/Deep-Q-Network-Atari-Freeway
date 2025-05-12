@@ -1,6 +1,6 @@
 # <center> Projekt-Seminar Deep Learing (Prof. Dr. Jörn Hees)
 
-## <center> Grupppe: Simon Lausch, Jan Felix Fuchs, Paul Jansen und Tobias Pappen
+## <center> Gruppe: Simon Lausch, Jan Felix Fuchs, Paul Jansen und Tobias Pappen
 
 ## <center> Deep Reinforcement Learning (Atari Spiel Freeway)
 
